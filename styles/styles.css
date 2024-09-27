@@ -1,0 +1,211 @@
+
+
+body {
+  background-image: linear-gradient(#394867, #035c6f);
+  padding-right: 10%;
+  font-family: Andale Mono, monospace;
+  /*background-image: url("../images/back.jpg");*/
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  -webkit-background-size:cover;
+  -moz-background-size:cover;
+  -o-background-size: cover;
+  background-size:cover;
+}
+
+
+
+
+.quatro {
+
+font: 40px Monospace, Helvetica, sans-serif;
+color: white;
+background: #d9bb6e;
+width:1349px;
+height:110px;
+}
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+a{
+  text-decoration: none;
+  color: black;
+
+}
+
+body{
+  font-family: arial;
+}
+
+ul{
+  list-style: none;
+
+}
+
+input[type="checkbox"]
+{
+  display: none;
+}
+
+nav{
+    background-color: #d9bb6e;
+    width: 120px;
+
+    height: 200%;
+    position: absolute;
+
+
+}
+
+
+
+
+ul{
+
+  position: absolute;
+  width: 100%;
+}
+
+a{
+
+  display: block;
+  padding: 20px 5px;
+  color: white;
+}
+a:hover{
+  background-color: #394867;
+  color: black;
+}
+.menuu{
+    margin-left: 200px;
+}
+label{
+  padding: 12px;
+  position: absolute;
+}
+
+fonte{
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  font-family: monospace;
+
+}
+
+p{
+  font-size: 12pt;
+  color: white;
+  font-weight: normal;
+
+}
+p2{
+  font-size: 12pt;
+  color: white;
+  font-weight: normal;
+
+}
+
+footer{
+color: white;
+background: #d9bb6e;
+width: 1349px;
+height:130px;
+position: absolute;
+bottom: 100;
+}
+
+#fonte{
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  font-family: monospace;
+}
+
+.toplane{
+  font-size: 15px;
+  color: white;
+  font-weight: normal
+
+}
+
+.areaTexto p{
+    float:left;
+    max-width:500px;
+    margin-left:20px;
+}
+
+
+.areaTexto1 p2{
+    float:left;
+    max-width:500px;
+    margin-left:20px;
+}
+.areaTexto2 p3{
+    float:right;
+    max-width:580px;
+    margin-left:5px;
+    color: white;
+}
+.areaTextochamp p4{
+    float:right;
+    max-width:500px;
+    margin-left:60px;
+    color: white;
+
+}
+.areaTextojg p4{
+    float:right;
+    max-width:490px;
+    margin-left:10px;
+    color: white;
+
+}
+.areaTextojg1 p5{
+    float:left;
+    max-width:520px;
+
+
+    color: white;
+}
+.areaTextomid p6{
+    float:right;
+    max-width:490px;
+    margin-left:10px;
+    color: white;
+
+}
+
+.areaTextoadc p7{
+    float:right;
+    max-width:590px;
+    margin-left:10px;
+    color: white;
+
+}
+.areaTextotop p8{
+    float:left;
+    max-width:400px;
+    margin-left:1px;
+    color: white;
+
+}
+
+fonte1{
+  font-weight: bold;
+  font-size: 35px;
+  color: white;
+  font-family: monospace;
+
+}
+fontedrag{
+  font-weight: bold;
+  font-size: 30px;
+  color: brown;
+  font-family: monospace;
+
+}
